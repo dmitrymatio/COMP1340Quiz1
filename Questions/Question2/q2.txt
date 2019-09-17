@@ -1,0 +1,9 @@
+Question 2.a: The "git status" command is not mandatory but it's good practice.
+We want to use the command to view the status of our repository and the items within it.
+This allows us to avoid forgetting to add folders and files to be tracked and helps identify issues.
+
+Question 2.b: By executing the node command in the default terminal we enter the Node REPL
+or the node terminal where we can execute JavaScript commands but not Bash or powershell commands such as "ls," "git status," and "pwd."
+
+Inside the Node REPL the ".help" command pulls up a list of helpful commands -- including the ".exit" command which exits the Node REPL.
+
